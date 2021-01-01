@@ -1,6 +1,8 @@
 # LED Strip
 Tools for drawing long exposure images with a NeoPixel LED strip
+
 Basic Python that addresses LEDs on a 144 pixel strip and turns the LED the colour of the pixel in the image one row at a time.
+
 Play with the update time per row to adjust the drawing time.
 
 Suggested improvements:
