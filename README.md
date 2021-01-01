@@ -8,4 +8,5 @@ Suggested improvements:
 - use PIL to resize images to the required 144 pixel width and whatever height results so that any image can be used instead of a correctly sizes image being required.
 
 ![TREX input image](trex.bmp "Example image to use with black background")
-![T-Rex end result photo] (DSC_4721.jpg "End result example, long expsure photo")
+
+![T-Rex end result photo](DSC_4721.jpg "End result example, long expsure photo")
