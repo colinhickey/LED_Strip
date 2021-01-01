@@ -6,8 +6,8 @@ Basic Python that addresses LEDs on a 144 pixel strip and turns the LED the colo
 Play with the update time per row to adjust the drawing time.
 
 Suggested improvements:
-- add image filename as an argument with the script is run rather than hardcoding it in the script
-- use PIL to resize images to the required 144 pixel width and whatever height results so that any image can be used instead of a correctly sizes image being required.
+- add image filename as an argument when the script is run, rather than hardcoding it in the script.
+- use PIL to resize images to the required 144 pixel width and whatever height results so that any image can be used instead of requiring correctly sized image.
 
 ![TREX input image](trex.bmp "Example image to use with black background")
 
